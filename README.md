@@ -6,11 +6,12 @@
 - OLX-CLONE: https://olx-clone-blond.vercel.app/
 - APPLE-CLONE:https://apple-ui-neon.vercel.app/
 
- -REACT
- -ECOMERCE-WEBSITE: https://ecomerce-frontend-khaki.vercel.app/home
- -RESTURANT-WEBSITES: https://practice-project-beta.vercel.app/
- -FULL-STACK-SOCAILMEDIA: FRONTEND: https://github.com/MoizZakir/Mern-SocailMediaApp ,
-                          BACKEND: https://github.com/MoizZakir/BackendApi
+-REACT
+-ECOMERCE-WEBSITE: https://ecomerce-frontend-khaki.vercel.app/home
+-RESTURANT-WEBSITES: https://practice-project-beta.vercel.app/
+-FULL-STACK-SOCAILMEDIA: F
+-RONTEND: https://github.com/MoizZakir/Mern-SocailMediaApp ,
+-BACKEND: https://github.com/MoizZakir/BackendApi
 
 <!--
 **MoizZakir/moizzakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
