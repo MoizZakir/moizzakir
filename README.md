@@ -12,7 +12,7 @@
 
 -RESTURANT-WEBSITES: https://practice-project-beta.vercel.app/
 
--FULL-STACK-SOCAILMEDIA(currnetly working ....)
+-FULL-STACK-SOCAILMEDIA(currently  working ....)
 
 -FRONTEND: https://github.com/MoizZakir/Mern-SocailMediaApp ,
 -BACKEND: https://github.com/MoizZakir/BackendApi
